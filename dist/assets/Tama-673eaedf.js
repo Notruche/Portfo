@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as s,a as c}from"./index-6f291747.js";const o={},t={class:"Tama"},_=c("h1",null,"Tama",-1),n=[_];function r(d,i){return a(),s("div",t,n)}const m=e(o,[["render",r]]);export{m as default};
