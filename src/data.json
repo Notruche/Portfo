@@ -1,0 +1,466 @@
+{
+    "dessins": [
+      {
+        "name": "Carte d'identité de l'Ilot",
+        "slug": "carte",
+        "img": "/images/pages/carte.png",
+        "tout1": "/images/pages/carte.png",
+        "graph1": "/images/pages/carte.png",
+        "illu1": "/images/pages/carte.png",
+        "id": 1,
+        "description":
+          "Support de communication présentant les différents services proposés par L'Ilot, une ASBL qui aide à sortir du sans-abrisme."
+      },
+      {
+        "name": "Illustrations jeunesse",
+        "slug": "jeunesse",
+        "img": "/images/pages/IllusJeunesse.png",
+        "tout2": "/images/pages/IllusJeunesse.png",
+        "illu2": "/images/pages/IllusJeunesse.png",
+        "id": 10,
+        "description":
+          ""
+      },
+      {
+        "name": "Stickers timbres",
+        "slug": "timbres",
+        "img": "/images/pages/timbres1.png",
+        "tout3": "/images/pages/timbres1.png",
+        "illu3": "/images/pages/timbres1.png",
+        "gal1":"/images/GALLERIE/timbres2.png",
+        "gal2":"/images/GALLERIE/timbres3.png",
+        "gal3":"/images/GALLERIE/timbres4.png",
+        "gal4":"/images/GALLERIE/timbres5.png",
+        "gal5":"/images/GALLERIE/timbres6.png",
+        "id": 22,
+        "description":
+          ""
+      },
+      {
+        "name": "Illustrations jeunesse",
+        "slug": "enfants",
+        "img": "/images/pages/enfants.png",
+        "tout1": "/images/pages/enfants.png",
+        "illu1": "/images/pages/enfants.png",
+        "id": 13,
+        "description":
+          ""
+      },
+      {
+        "name": " Rapport d’activité 4WINGS foundation 2022",
+        "slug": "4wings",
+        "img": "/images/pages/4wings.png",
+        "tout2": "/images/pages/4wings.png",
+        "graph2": "/images/pages/4wings.png",
+        "illu2": "/images/pages/4wings.png",
+        "gal1":"/images/GALLERIE/4wings2.png",
+        "gal2":"/images/GALLERIE/4wings3.png",
+        "gal3":"/images/GALLERIE/4wings4.png",
+        "id": 25,
+        "link":"https://lnkd.in/eHtGzv7K",
+        "description":
+          "Mise en page et illustration du rapport d’activité 2022 sur l'accès à une alimentation durable pour les jeunes et les familles précarisés à Bruxelles."
+      },
+      {
+        "name": "Fanzine Goodnight",
+        "slug": "goodnight",
+        "img": "/images/pages/fanzineGoodnight.png",
+        "tout3": "/images/pages/fanzineGoodnight.png",
+        "bd1": "/images/pages/fanzineGoodnight.png",
+        "gal2":"/images/GALLERIE/goodnight2.png",
+        "gal3":"/images/GALLERIE/goodnight3.png",
+        "gal4":"/images/GALLERIE/goodnight4.png",
+        "gal5":"/images/GALLERIE/goodnight5.png",
+        "gal6":"/images/GALLERIE/goodnight6.png",
+        "gal7":"/images/GALLERIE/goodnight7.png",
+        "id": 16,
+        "link":"https://grandpapier.org/pekolio-1093/good-night",
+        "description":
+          "C’est l’histoire d’une bonne sieste dans le train, que rien ni personne ne viendra déranger. Imprimé à la Comcolor aux ateliers du Toner en 2022."
+      },
+      {
+        "name": "Jeu vidéo 'Flavors of victory'",
+        "slug": "flavors",
+        "img": "/images/pages/flavours.png",
+        "tout1": "/images/pages/flavours.png",
+        "illu3": "/images/pages/flavours.png",
+        "gal1":"/images/GALLERIE/flavours2.png",
+        "gal2":"/images/GALLERIE/flavours3.png",
+        "id": 18,
+        "link":"https://kyrio.itch.io/flavors-of-victory",
+        "description":
+          "Jeu vidéo réalisé pour la Ludum Dare 52. Programming: Kyrio\nGame Design: NoTruche //  Art : Gormand.a, Hélicule, Pekolio  //  Music & SFX: Zachary Pinkham"
+      },
+      {
+        "name": "Axolot aventurier",
+        "slug": "axolot",
+        "img": "/images/pages/axolot.png",
+        "tout2": "/images/pages/axolot.png",
+        "illu1": "/images/pages/axolot.png",
+        "id": 8,
+        "description":
+          ""
+      },
+      {
+        "name": "Fanzine Donjons et Dragons",
+        "slug": "dnd",
+        "img": "/images/pages/dnd1.png",
+        "tout3": "/images/pages/dnd1.png",
+        "illu2": "/images/pages/dnd1.png",
+        "gal1":"/images/GALLERIE/dnd2.png",
+        "id": 9,
+        "description":
+          "Illustration de couverture pour un fanzine “Donjons et Dragons”, 2021."
+      },
+      {
+        "name": "Patati Patata",
+        "slug": "patati",
+        "img": "/images/pages/patati1.png",
+        "tout1": "/images/pages/patati1.png",
+        "bd2": "/images/pages/patati1.png",
+        "gal1":"/images/GALLERIE/patati2.png",
+        "gal2":"/images/GALLERIE/patati3.png",
+        "gal3":"/images/GALLERIE/patati4.png",
+        "gal4":"/images/GALLERIE/patati5.png",
+        "gal5":"/images/GALLERIE/patati6.gif",
+        "id": 23,
+        "description":
+          "Patati Patata, ce sont des petites bandes dessinées drôles, absurdes et poétiques tout en pâte à modeler !"
+      },
+      {
+        "name": "Papeterie",
+        "slug": "blocnote",
+        "img": "/images/pages/blocnoteChampi.png",
+        "tout2": "/images/pages/blocnoteChampi.png",
+        "illu3": "/images/pages/blocnoteChampi.png",
+        "gal1":"/images/GALLERIE/bloc1.png",
+        "gal2":"/images/GALLERIE/bloc2.png",
+        "id": 12,
+        "description":
+          ""
+      },
+      {
+        "name": "Journal d'activités Gribouillos ASBL",
+        "slug": "ateliersgribou",
+        "img": "/images/pages/ateliersgribou.png",
+        "tout3":  "/images/pages/ateliersgribou.png",
+        "illu1":  "/images/pages/ateliersgribou.png",
+        "gal1":"/images/GALLERIE/ateliersgribou1.png",
+        "id": 34,
+        "description":
+          "Illustrations pour le journal d'ateliers créatifs pour enfants de l'ASBL Gribouillos"
+      },
+      {
+        "name": "Concours 'Draw me comics'",
+        "slug": "drawmecomics",
+        "img": "/images/pages/bdinsta1.gif",
+        "tout1": "/images/pages/bdinsta1.gif",
+        "bd3": "/images/pages/bdinsta1.gif",
+        "gal1":"/images/GALLERIE/bdinsta2.gif",
+        "gal2":"/images/GALLERIE/bdinsta3.gif",
+        "gal3":"/images/GALLERIE/bdinsta4.gif",
+        "gal4":"/images/GALLERIE/bdinsta5.png",
+        "gal5":"/images/GALLERIE/bdinsta6.gif",
+        "gal6":"/images/GALLERIE/bdinsta7.gif",
+        "gal7":"/images/GALLERIE/bdinsta8.png",
+        "gal8":"/images/GALLERIE/bdinsta9.png",
+        "gal9":"/images/GALLERIE/bdinsta10.png",
+        "id": 17,
+        "link": "https://www.instagram.com/p/B4vj_ZMDy9y/",
+        "description":
+          "2ème prix au Concours” Draw me comics” du Festival d’Angoulême 2020."
+      },
+      {
+        "name": "La galaxie d'Elly",
+        "slug": "elly",
+        "img": "/images/pages/elly7.png",
+        "tout2": "/images/pages/elly7.png",
+        "bd1": "/images/pages/elly7.png",
+        "gal1":"/images/GALLERIE/elly1.png",
+        "gal2":"/images/GALLERIE/elly2.png",
+        "gal3":"/images/GALLERIE/elly3.png",
+        "gal4":"/images/GALLERIE/elly4.png",
+        "gal5":"/images/GALLERIE/elly5.png",
+        "gal6":"/images/GALLERIE/elly6.png",
+        "id": 24,
+        "description":
+          "Dans l’immensité de la galaxie, une botaniste nommée Elly vit paisiblement sur sa petite planète. Elly étant elle même en partie végétale, elle prend beaucoup de plaisir à s’occuper à longueur de journée des plantes diverses et variées qu’elle a ramené sur sa planète au cours de ses voyages aux confins de l’univers. Ses aventures se déroulent en plusieurs épisodes d’une vingtaine de pages chacun. Chacune des aventures d’Elly l’amènent à s’intéresser à un nouveau sujet en lien avec la nature (par exemple les champignons, les vers de terre, ...). À la fin de chaque chapitre se trouve le journal de bord écrit et illustré par Elly qui apportera des informations plus didactiques sur le sujet abordé dans le chapitre. Dans cette première aventure Elly s’échoue par accident sur une planète peuplée de champignons. Les catastrophes s’enchaînent : par mégarde, elle fait fuir le Chienpignon d’un habitant! Elle s’engage à le retrouver, mais la tâche s’avère plus périlleuse que prévue... Cette planète semble renfermer de nombreux mystères et Elly n’aura pas d’autre choix que de trouver de l’aide pour honorer sa promesse."
+      },
+      {
+        "name": "Sérigraphie",
+        "slug": "tshirt",
+        "img": "/images/pages/tshirt.png",
+        "tout3": "/images/pages/tshirt.png",
+        "illu2": "/images/pages/tshirt.png",
+        "gal1":"/images/GALLERIE/séri2.png",
+        "gal2":"/images/GALLERIE/séri3.png",
+        "id": 14,
+        "description":
+          "Sérigraphie sur textile et papier"
+      },
+      {
+        "name": "Papeterie printemps",
+        "slug": "printemps",
+        "img": "/images/pages/printemps1.png",
+        "tout1":  "/images/pages/printemps1.png",
+        "illu3":  "/images/pages/printemps1.png",
+        "gal1":"/images/GALLERIE/printemps2.png",
+        "gal2":"/images/GALLERIE/printemps3.png",
+        "gal3":"/images/GALLERIE/printemps4.png",
+        "gal4":"/images/GALLERIE/printemps5.png",
+        "gal5":"/images/GALLERIE/printemps6.png",
+        "id": 36,
+        "description":
+          "Cartes postales et stickers sur le thème du printemps."
+      },
+      {
+        "name": "Cartes postales",
+        "slug": "bruxelles",
+        "img": "/images/pages/cartebruxelles.png",
+        "tout2": "/images/pages/cartebruxelles.png",
+        "graph3": "/images/pages/cartebruxelles.png",
+        "illu1": "/images/pages/cartebruxelles.png",
+        "gal1":"/images/GALLERIE/cartebruxelles2.png",
+        "id": 15,
+        "description":
+          ""
+      },
+      {
+        "name": "Les ailes de Paravès",
+        "slug": "paraves",
+        "img": "/images/pages/paraves5.png",
+        "tout3": "/images/pages/paraves5.png",
+        "bd2": "/images/pages/paraves5.png",
+        "gal1":"/images/GALLERIE/paraves1.png",
+        "gal2":"/images/GALLERIE/paraves2.png",
+        "gal3":"/images/GALLERIE/paraves3.png",
+        "gal4":"/images/GALLERIE/paraves4.png",
+        "id": 20,
+        "description":
+          "Projet de BD réalisé avec Corentin Pelaprat. L'histoire se déroule à Paravès, une grande citée d'oiseaux installée dans un arbre millénaire. Nous y suivons les péripéties de 3 oiselles qui ont été injustement privées de leurs ailes et forcées à vivre dans les bas-fonds de la ville. Lors d'un de leurs nombreux mauvais coups, elles se retrouvent en possesion d'un objet dont elles tardent à mesurer l'importance et qui risque de mettre à mal l'ordre établi..."
+      },
+      {
+        "name": "Bon chien !",
+        "slug": "chien",
+        "img": "/images/pages/bonchien.png",
+        "tout1": "/images/pages/bonchien.png",
+        "bd3": "/images/pages/bonchien.png",
+        "link":"https://unbonchien.fr/",
+        "id": 33,
+        "description":
+          "Des petits magasines à faire soi même, scénarisés par Charles Le Prévost."
+      },
+      {
+        "name": "Post-Apocaliptic acorn",
+        "slug": "gland",
+        "img": "/images/pages/gland1.png",
+        "tout2": "/images/pages/gland1.png",
+        "bd1": "/images/pages/gland1.png",
+        "illu1": "/images/pages/gland1.png",
+        "gal1":"/images/GALLERIE/gland3.png",
+        "gal2":"/images/GALLERIE/gland4.png",
+        "id": 26,
+        "description":
+          "Fanzine, 2023."
+      },
+      {
+        "name": "Rapport d'activité 2020 de l'Ilot",
+        "slug": "ilot",
+        "img": "/images/pages/ilot.png",
+        "tout3": "/images/pages/ilot.png",
+        "graph1": "/images/pages/ilot.png",
+        "illu2": "/images/pages/ilot.png",
+        "gal1":"/images/GALLERIE/rapportilot.png",
+        "id": 27,
+        "link":"https://ilot.be/wp-content/uploads/2021/06/RapportActiviteIlot2020FR-4.pdf",
+        "description":
+          "Graphisme et illustrations d'activités pour l'ASBL l'Ilot, une ASBL qui aide à sortir du sans-abrisme. 2020."
+      },
+      {
+        "name": "Exposition 'Commerce en devenir'",
+        "slug": "commerce expo",
+        "img": "/images/pages/expocommerce2.png",
+        "tout1": "/images/pages/expocommerce2.png",
+        "illu3": "/images/pages/expocommerce2.png",
+        "gal1":"/images/GALLERIE/expocommerce3.png",
+        "gal2":"/images/GALLERIE/expocommerce4.png",
+        "gal3":"/images/GALLERIE/expocommerce5.png",
+        "gal4":"/images/GALLERIE/expocommerce6.png",
+        "id": 31,
+        "description":
+          "Commerce en Devenir est un projet d’embellissement de nos quartiers commerçants. Objectif ? Dynamiser les locaux commerciaux vides du quartier Flagey et les rendre attractifs pour les commerçants et entrepreneuses en recherche de lieux. Pour ce faire, la Commune, à travers son ASBL en développement économique Entreprendre XXL, vous propose une petite exposition artistique sur le thème des arbres et de la nature en ville. 2023"
+      },
+      {
+        "name": "BD autobiographiques",
+        "slug": "bdauto",
+        "img": "/images/pages/autobio.png",
+        "tout2":  "/images/pages/autobio.png",
+        "bd2":  "/images/pages/autobio.png",
+        "gal1":"/images/GALLERIE/autobio2.png",
+        "gal2":"/images/GALLERIE/autobio3.png",
+        "id": 35,
+        "link":"https://www.instagram.com/pekolio/guides/?hl=fr",
+        "description":
+          "Courtes BD surmon quotidien, postées régulièrement sur instagram."
+      },
+      {
+        "name": "Gribouzine",
+        "slug": "gribouzine",
+        "img": "/images/pages/gribouzine.png",
+        "tout3": "/images/pages/gribouzine.png",
+        "bd3": "/images/pages/gribouzine.png",
+        "gal1":"/images/GALLERIE/gribouzinepresentation.png",
+        "id": 28,
+        "link":"https://www.instagram.com/gribouillos/?hl=fr",
+        "description":
+          "Le Gribouzine est un magazine auto-édité par le collectif Gribouillos, constitué de Corentin Pelaprat, Christopher Boyd et moi même. Il s'agit d'un magazine tout public de bande dessinées d’aventure et d’humour d'une centaine de pages. Le premier numéro a été financé avec succès via la plateforme de financement participatif Ulule en octobre 2018. Compte instagram de Gribouillos :"
+      },
+      {
+        "name": "Risographie",
+        "slug": "riso",
+        "img": "/images/pages/riso.png",
+        "tout1": "/images/pages/riso.png",
+        "illu1": "/images/pages/riso.png",
+        "id": 32,
+        "description":
+          ""
+      },
+      {
+        "name": "Camping Dandelion",
+        "slug": "camping",
+        "img": "/images/pages/camping.png",
+        "tout2": "/images/pages/camping.png",
+        "bd1": "/images/pages/camping.png",
+        "gal1":"/images/GALLERIE/camping2.png",
+        "gal2":"/images/GALLERIE/camping3.gif",
+        "id": 29,
+        "link":"https://www.webtoons.com/fr/challenge/camping-dandelion/list?title_no=669130",
+        "description":
+          "Webtoon ados/adultes. Ce qui devait être une sympatique semaine d’intégration étudiante au camping vire au cauchemar quand le groupe de jeunes se retrouve confronté aux secrets bien gardés du camping Dandelion..."
+      },
+      {
+        "name": "Douce mélodie",
+        "slug": "insectes",
+        "img": "/images/pages/insectes.png",
+        "tout3": "/images/pages/insectes.png",
+        "illu2": "/images/pages/insectes.png",
+        "id": 21,
+        "description":
+          ""
+      },
+      {
+        "name": "La jardinière",
+        "slug": "jardin",
+        "img": "/images/pages/jardin.png",
+        "tout1": "/images/pages/jardin.png",
+        "illu3": "/images/pages/jardin.png",
+        "id": 11,
+        "description":
+          ""
+      },
+      {
+        "name": "Rubik's Journey",
+        "slug": "rubiks",
+        "img": "/images/pages/rubiks.gif",
+        "tout2": "/images/pages/rubiks.gif",
+        "bd3": "/images/pages/rubiks.gif",
+        "gal1":"/images/GALLERIE/rubiks2.gif",
+        "id": 30,
+        "link":"https://rubiks.gribouillos.com/",
+        "description":
+          "BD numérique. Bobby doit se rendre à un important rendez-vous. Mais c’est moins facile de s’y retrouver quand l’immeuble est un énorme rubik’s cube... C’est au lecteur de le guider dans cette quête pendant laquelle Bobby devra faire face à son sombre passé."
+      },
+      {
+        "name": "Carnet de voyage au Japon",
+        "slug": "japon",
+        "img": "/images/pages/japon1.png",
+        "tout3": "/images/pages/japon1.png",
+        "illu1": "/images/pages/japon1.png",
+        "gal1":"/images/GALLERIE/japon2.png",
+        "gal2":"/images/GALLERIE/japon3.png",
+        "gal3":"/images/GALLERIE/japon4.png",
+        "gal4":"/images/GALLERIE/japon5.png",
+        "gal5":"/images/GALLERIE/japon6.png",
+        "id": 19,
+        "link": "https://fr.calameo.com/read/0051665228842d876b829",
+        "description":
+          "2016"
+      },
+      {
+        "name": "Animaux rigolos",
+        "slug": "animaux",
+        "img": "/images/pages/animaux.png",
+        "tout1": "/images/pages/animaux.png",
+        "illu2": "/images/pages/animaux.png",
+        "id": 2,
+        "description":
+          ""
+      },
+      {
+        "name": "Carte d'invitation",
+        "slug": "mariage",
+        "img": "/images/pages/mariage.png",
+        "tout2": "/images/pages/mariage.png",
+        "graph2": "/images/pages/mariage.png",
+        "illu3": "/images/pages/mariage.png",
+        "id": 4,
+        "description":"2023"
+      },
+      {
+        "name": "Jeu de société 'DOJO'",
+        "slug": "dojo",
+        "img": "/images/pages/dojocartes.png",
+        "tout3": "/images/pages/dojocartes.png",
+        "illu1": "/images/pages/dojocartes.png",
+        "gal1":"/images/GALLERIE/dojo2.png",
+        "id": 3,
+        "description":
+          "Illustrations de cartes pour le jeu de société “DOJO le duel des maîtres” de Denis Maurel et Mégane Alekanian aux éditions HENS."
+      },
+      {
+        "name": "Le Salon",
+        "slug": "salon",
+        "img": "/images/pages/salon.png",
+        "tout1":  "/images/pages/salon.png",
+        "illu2":  "/images/pages/salon.png",
+        "gal1":"/images/GALLERIE/salon2.gif",
+        "id": 7,
+        "description":
+          "'Le Salon' a diffusé en direct sur Twitch des artistes de tous horizons durant la période de confinement de 2020et ce 7 jours sur 7. Ces illustrations ont été réalisées durant les streams sur la chaîne."
+      },
+      {
+        "name": "Ciel étoilé",
+        "slug": "stargaze",
+        "img": "/images/pages/stargaze.png",
+        "tout2": "/images/pages/stargaze.png",
+        "illu3": "/images/pages/stargaze.png",
+        "id": 5,
+        "description":
+          ""
+      },
+      {
+        "name": "Mémoire",
+        "slug": "memoire",
+        "img": "/images/pages/memoire.gif",
+        "tout3": "/images/pages/memoire.gif",
+        "illu3": "/images/pages/memoire.gif",
+        "id": 6,
+        "link":"https://memoire.gribouillos.com",
+        "description":
+          "Illustrations de mémoire de Master 2 bande dessinée / édition 'Internet est-il un tremplin pour les jeunes auteurs de bande dessinée dans la vie professionnelle en 2019 en France et en Belgique?'"
+      },
+      {
+        "name": "Carte Goodnight",
+        "slug": "goodnight",
+        "img": "/images/pages/carteGoodnight.png",
+        "tout3": "/images/pages/carteGoodnight.png",
+        "illu2": "/images/pages/carteGoodnight.png",
+        "gal1":"/images/GALLERIE/cartegoodnight2.png",
+        "gal2":"/images/GALLERIE/cartegoodnight3.png",
+        "id": 37,
+        "description":
+          ""
+      }
+    ]
+  }
+  
