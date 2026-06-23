@@ -1,0 +1,1 @@
+import{a as e,i as t,n,r}from"./index-D7JX4ub4.js";var i={},a={class:`Tama`},o=[r(`h1`,null,`Tama`,-1)];function s(n,r){return e(),t(`div`,a,o)}var c=n(i,[[`render`,s]]);export{c as default};
