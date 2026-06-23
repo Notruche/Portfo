@@ -7,8 +7,8 @@
             <img src="/images/TITRES/ameliepecot.png" alt="" style="padding-left: 5%;">
           </router-link>
         </div>
-        <div class="col-5"></div>
-        <div class="col-3 row hasimage py-4">
+        <div class="col-4"></div>
+        <div class="col-4 row hasimage py-4">
             <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center">
               <router-link to="/about">
                 <img src="/images/TITRES/contact.png" alt="" class="align-middle">
