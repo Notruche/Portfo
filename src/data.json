@@ -241,10 +241,10 @@
       "slug": "figu",
       "img": "/images/pages/fanzines1.jpg",
       "tout3": "/images/pages/fanzines1.jpg",
-      "illu3": "/images/pages/fanzines1.jpg",
+      "bd3": "/images/pages/fanzines1.jpg",
       "gal1": "/images/GALLERIE/fanzines2.jpg",
       "id": 56,
-      "description": "'La grande balade de la vie #1', 'Tips pour créatifs', 'Les 3 clowns de la Vennbahn' Fanzine collectif 'Timeskip' réalisé avec Lison Ferné et Gormand.a, avec la participation de 37 artistes. Exposition des illustrations au Centre Culturel 'La Villa' en Janvier 2024."
+      "description": "'La grande balade de la vie #1', 'Tips pour créatifs', 'Les 3 clowns de la Vennbahn'"
     },
     {
       "name": "Panier Kilti Édition Jeune Public #5",
@@ -298,7 +298,7 @@
       "bd3": "/images/pages/verdeterre.png",
       "gal1": "/images/GALLERIE/Revueplanches2.jpg",
       "id": 42,
-      "description": "Publication dans la revue BD québécoise 'Planches' #19"
+      "description": "«Echos des sous bois» est un projet en cours de développement. Il s'agit d'histoires courtes de bande dessinée ponctuées d’illustrations, mettant en scène des petites bêtes de la forêt. Les histoires sont destinées à de jeunes enfants (de 4 à 8 ans). Sur un ton humoristique et poétique, chaque nouvelle histoire aborde une petite «leçon de vie» avec légerté. Cette première histoire parle par exemple d'endraide et de la possibilité de trouver des solutions à des problèmes à priori insolubles. Publication dans la revue BD québécoise 'Planches' #19"
     },
     {
       "name": "Patati Patata",
@@ -498,7 +498,7 @@
       "name": "Rubik's Journey",
       "slug": "rubiks",
       "img": "/images/pages/rubiks.gif",
-      "tout2": "/images/pages/rubiks.gif",
+      "tout3": "/images/pages/rubiks.gif",
       "bd3": "/images/pages/rubiks.gif",
       "gal1": "/images/GALLERIE/rubiks2.gif",
       "id": 30,
@@ -553,7 +553,7 @@
       "name": "Le Salon",
       "slug": "salon",
       "img": "/images/pages/salon.png",
-      "tout1": "/images/pages/salon.png",
+      "tout3": "/images/pages/salon.png",
       "illu2": "/images/pages/salon.png",
       "gal1": "/images/GALLERIE/salon2.gif",
       "id": 7,

@@ -2,7 +2,7 @@
 
 <div class="home">
     <div class="filtres row container-fluid d-flex flex-column justify-content-center align-items-center p-0">
-        <div class="col-8 row m-0 p-0 container-fluid">
+        <div class="col-12 row m-0 p-0 container-fluid">
             <div class="col-1"></div>
             <div class="col-2 hasimage p-0"
             v-on:mouseover="hovertout()"

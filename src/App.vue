@@ -8,23 +8,23 @@
           </router-link>
         </div>
         <div class="col-4"></div>
-        <div class="col-4 row hasimage py-4">
-            <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center">
+        <div class="col-4 row hasimage px-3">
+            <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center p-0">
               <router-link to="/about">
                 <img src="/images/TITRES/contact.png" alt="" class="align-middle">
               </router-link>
             </div>
-            <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center">
+            <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center p-0">
               <a href="https://www.instagram.com/pekolio/" target="blank">
                 <img src="/images/TITRES/insta.png" alt="" class="align-middle">
               </a>
             </div>
-            <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center">
+            <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center p-0">
               <a href="https://www.twitch.tv/gribouillos" target="blank">
                 <img src="/images/TITRES/twitch.png" alt="" class="align-middle">
               </a>
             </div>
-            <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center">
+            <div class="col-3 hasimage d-flex flex-column justify-content-center align-items-center p-0">
               <a href="https://ko-fi.com/gribouillos/" target="blank">
                 <img src="/images/TITRES/shop.png" alt="" class="align-middle">
               </a>
